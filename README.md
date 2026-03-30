@@ -1,46 +1,40 @@
-O Gemini disse
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b1120&height=250&section=header&text=M%C3%A1rcio%20Mateus&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Fuzileiro%20Naval%20%E2%9A%93%20%7C%20Desenvolvedor%20Full-Stack%20%F0%9F%92%BB&descSize=20&descAlignY=75" width="100%"/>
+![Márcio Mateus](https://capsule-render.vercel.app/api?type=waving&color=0b1120&height=250&section=header&text=M%C3%A1rcio%20Mateus&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20Full-Stack%20%F0%9F%92%BB%20%7C%20Estudante%20de%20ADS&descSize=20&descAlignY=75)
 
-💻 Márcio Mateus
-Estudante de Análise e Desenvolvimento de Sistemas
+# 💻 Márcio Mateus
 
-Tenho 21 anos e trago a disciplina, a resiliência e o foco estratégico da vida de Fuzileiro Naval direto para o mundo do código. Atualmente cursando Análise e Desenvolvimento de Sistemas, estou construindo minha jornada na área de desenvolvimento de software com uma mentalidade voltada para a alta performance.
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Sou apaixonado por arquitetar soluções limpas e escaláveis, desenvolvendo desde aplicações de controle financeiro Full-Stack até lógicas otimizadas para jogos. Movido por desafios, busco a excelência constante — seja dominando novas linguagens de programação, quebrando recordes de pace na corrida de 10km ou superando limites nos treinos de hipertrofia.
+Direto de Manaus/AM, sou um desenvolvedor movido por alta performance, tanto no código quanto na vida. Minha rotina é construída à base de desafios: a mesma consistência e foco absoluto que utilizo para superar meus limites nos treinos de hipertrofia e quebrar recordes no pace de 10km, eu aplico para arquitetar aplicações de alto nível.
 
-<p align="left">
-<a href="https://linkedin.com/in/marcio-mateus-509952236">
-<img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:marciomateus152@gmail.com">
-<img alt="Email" title="Me envie um e-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/marciomateus152?tab=followers">
-<img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/marciomateus152?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-</a>
-</p>
+Sou apaixonado por construir do zero — seja desenvolvendo sistemas robustos de controle financeiro Full-Stack, otimizando a lógica de jogos, ou dominando as tecnologias mais exigentes do mercado. Meu foco é claro: escrever código limpo, escalável e entregar projetos que sejam totalmente fora da curva.
 
-⚙️ Arsenal Tecnológico
-<p align="left">
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" title="Java" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="C" title="C" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcio-mateus-509952236)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciomateus152@gmail.com)
+[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/marciomateus152?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/marciomateus152?tab=followers)
 
-📊 Painel de Operações (Estatísticas)
-<p align="left">
-<img align="left" alt="GitHub Stats" height="195" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=marciomateus152&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10" />
-<img align="left" alt="Linguagens mais usadas" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciomateus152&theme=tokyonight&layout=compact&custom_title=Stack_Principal&langs_count=6&border_radius=10" />
-</p>
-<br clear="both">
+---
 
-<div align="center">
-<i>"A disciplina é a ponte entre metas e realizações."</i>
-</div>
+### 🚀 Minha Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciomateus152&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomateus152&theme=tokyonight&layout=compact&custom_title=Stack_Principal&langs_count=6&border_radius=10)
+
+---
+
+> *"Consistência e foco absoluto: a chave para transformar lógica em soluções de excelência."*
