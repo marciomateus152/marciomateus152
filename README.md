@@ -50,15 +50,15 @@ Visão estratégica para entender o problema antes de escrever a primeira linha 
 
 ## 📈 Estatísticas do GitHub
 
-[![Estatísticas do Márcio](https://github-readme-stats.vercel.app/api?username=marciomateus152&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/marciomateus152)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=marciomateus152&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomateus152&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/marciomateus152)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomateus152&layout=compact&langs_count=6&theme=tokyonight)
 
 ---
 
-## ⚡ Além do Código
+## ⚡ Sobre
 
-Quando não estou desenvolvendo sistemas ou estudando novas tecnologias, gosto de focar em **alta performance e consistência**. Sou dedicado a treinos de hipertrofia e sigo um planejamento rigoroso de corrida (sempre em busca de bater minhas metas nos 3km e 10km). Acredito que a mesma constância que te faz correr mais rápido, é a que te faz escrever códigos melhores. Também curto analisar lógica de desenvolvimento de jogos nas horas vagas.
+Quando não estou desenvolvendo sistemas ou estudando novas tecnologias, gosto de focar em **alta performance e consistência**. Também curto analisar lógica de desenvolvimento de jogos nas horas vagas.
 
 ---
 
@@ -67,4 +67,3 @@ Quando não estou desenvolvendo sistemas ou estudando novas tecnologias, gosto d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-mateus-509952236)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciomateus152@gmail.com)
 
-> *"A consistência é a chave para a engenharia de excelência."*
