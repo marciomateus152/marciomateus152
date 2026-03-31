@@ -33,7 +33,7 @@ Busco evoluir constantemente minhas habilidades em lógica de programação, mod
 
 ### 📊 Estatísticas
 
-!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciomateus152&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_radius=10)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomateus152&theme=tokyonight&layout=compact&custom_title=Stack_Principal&langs_count=6&border_radius=10)
 
