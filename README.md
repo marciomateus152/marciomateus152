@@ -4,9 +4,11 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Direto de Manaus/AM, sou um desenvolvedor movido por alta performance, tanto no código quanto na vida. Minha rotina é construída à base de desafios: a mesma consistência e foco absoluto que utilizo para superar meus limites nos treinos de hipertrofia e quebrar recordes no pace de 10km, eu aplico para arquitetar aplicações de alto nível.
+Direto de Manaus/AM, sou um desenvolvedor júnior em formação, com foco em construir aplicações web funcionais, bem estruturadas e com código limpo. Atualmente curso Análise e Desenvolvimento de Sistemas e desenvolvo projetos próprios para consolidar conhecimentos em desenvolvimento Full-Stack.
 
-Sou apaixonado por construir do zero — seja desenvolvendo sistemas robustos de controle financeiro Full-Stack, otimizando a lógica de jogos, ou dominando as tecnologias mais exigentes do mercado. Meu foco é claro: escrever código limpo, escalável e entregar projetos que sejam totalmente fora da curva.
+Tenho experiência prática com Python, Flask, HTML, CSS (Tailwind) e bancos de dados MySQL, criando sistemas como controle financeiro, autenticação de usuários e APIs REST. Também utilizo Git e GitHub para versionamento e organização dos meus projetos.
+
+Busco evoluir constantemente minhas habilidades em lógica de programação, modelagem de dados e boas práticas de desenvolvimento, sempre com atenção à clareza, organização e eficiência do código. Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu possa aprender, crescer e contribuir com soluções reais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcio-mateus-509952236)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciomateus152@gmail.com)
