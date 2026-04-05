@@ -8,7 +8,6 @@ Direto de Manaus/AM, sou um desenvolvedor júnior em formação, com foco em con
 
 Tenho experiência prática com Python, Flask, HTML, CSS (Tailwind) e bancos de dados MySQL, criando sistemas como controle financeiro, autenticação de usuários e APIs REST. Também utilizo Git e GitHub para versionamento e organização dos meus projetos.
 
-Busco evoluir constantemente minhas habilidades em lógica de programação, modelagem de dados e boas práticas de desenvolvimento, sempre com atenção à clareza, organização e eficiência do código. Estou em busca da minha primeira oportunidade na área de tecnologia, onde eu possa aprender, crescer e contribuir com soluções reais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcio-mateus-509952236)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciomateus152@gmail.com)
